@@ -9,7 +9,6 @@
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tanjan_16/) 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq-jain-9a8bb022b/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?logo=discord&logoColor=white)](https://twitter.com/Tanishq90353403)
- [![Github](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/tanishqJain16)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
