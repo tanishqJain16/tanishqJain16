@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Tanishq Jain</h1>
 
 # 💫 About Me:
-💫About Me :<br>🏫 I’m a CS Student at DIT University.<br>💻 I'm a Full Stack Web Developer.<br>📚 I’m currently learning React.<br>💬 Ask me about Cricket.<br>⚡  Eat ~*sleep*~ code
+🏫 I’m a CS Student at DIT University.<br>💻 I'm a Full Stack Web Developer.<br>📚 I’m currently learning React.<br>💬 Ask me about Cricket.<br>⚡  Eat ~*sleep*~ code
 
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tanjan_16/) 
