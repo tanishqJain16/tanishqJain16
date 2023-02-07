@@ -1,7 +1,8 @@
+<h1 align="center">Hi 👋, I'm Tanishq Jain</h1>
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-<h1 align="center">Hi 👋, I'm Tanishq Jain</h1>
+
 
 # 💫 About Me:
 🏫 I’m a CS Student at DIT University.<br>💻 I'm a Full Stack Web Developer.<br>📚 I’m currently learning React.<br>💬 Ask me about Cricket.<br>⚡  Eat ~*sleep*~ code
